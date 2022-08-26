@@ -1,0 +1,11 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,400;1,900&display=swap');
+// Variables
+@import 'variables';
+
+// Bootstrap
+$body-bg : rgb(48,48,48);
+$font-family-sans-serif: 'Raleway','Roboto', sans-serif;
+@import 'bootstrap/scss/bootstrap';
+//Animate
+@import "animate.css  ";
